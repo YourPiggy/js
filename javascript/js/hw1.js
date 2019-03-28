@@ -18,7 +18,7 @@ console.log("Задание 3");
 let oval = 15 * 100;
 let kolbco = 600;
 
-console.log('Площадь кольца = ', oval - kolbco, 'квадратных см');
+console.log('Площадь кольца = ', oval - kolbco);
 
 console.log("Задание 4");
 let X = 7;
