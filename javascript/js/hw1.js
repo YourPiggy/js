@@ -12,3 +12,17 @@ let sotka = 1000;
 let gryadka = 15 * 25;
 
 console.log (sotka % gryadka);
+
+console.log("Задание 3");
+
+let oval = 15 * 100;
+let kolbco = 600;
+
+console.log('Площадь кольца = ', oval - kolbco, 'квадратных см');
+
+console.log("Задание 4");
+let X = 7;
+let Y = 3;
+
+X > Y ? (N = X, X = Y, Y = N) : (X = X, Y = Y);
+console.log('X = ',X,'Y = ',Y);
