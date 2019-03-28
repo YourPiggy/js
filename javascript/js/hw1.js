@@ -1,9 +1,9 @@
 console.log("Задание 1");
 let a =  4;
 let b = 5;
-let c = 8;
+let c = '8m';
 console.log('Площадь параллелипипеда', a * b * c);
-ex1 = (a >= parseInt(c)) ? "ширина больше или равна" : "высота больше";
+ex1 = (a >= parseInt)) ? "ширина больше или равна" : "высота больше";
 console.log(ex1);
 
 console.log("Задание 2");
@@ -24,5 +24,5 @@ console.log("Задание 4");
 let X = 7;
 let Y = 3;
 
-X > Y ? (N = X, X = Y, Y = N) : (X = X, Y = Y);
+X > Y ? (Z = X, X = Y, Y = Z) : (X = X, Y = Y);
 console.log('X = ',X,'Y = ',Y);
