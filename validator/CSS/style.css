@@ -1,0 +1,19 @@
+input:required:valid {
+    border-color: yellow;
+}
+
+input:required:invalid {
+    border-color: skyblue;
+    border-radius: 10px;
+}
+
+body {
+  background-color: skyblue;
+}
+.submit {
+  border-radius: 5px;
+  background-color: pink;
+}
+form {
+  text-align: center;
+}
